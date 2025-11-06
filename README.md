@@ -1,6 +1,7 @@
-## Hi there 👋, I am Wondifraw Terefe
+## Hi there 👋, I'm Wondifraw Terefe
 
 💻 Backend Developer | Video Editor
+
 🎓 Electrical and Computer Engineering student  
 
 
