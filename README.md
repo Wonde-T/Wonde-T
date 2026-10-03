@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Wondifraw Terefe
+## Hi 👋, I'm Wondifraw Terefe
 
 💻 Backend Developer | Video Editor
 
